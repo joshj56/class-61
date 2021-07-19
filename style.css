@@ -1,0 +1,95 @@
+.line {
+ height: 8px;
+ width:  90px;
+ background-color: black;
+}
+img {
+ border:5px dashed red;
+border-radius: 8px;
+margin-top: 100px;
+}
+#welcome {
+    background: linear-gradient(#C6FFDD,#FBD786,#f7797d);
+    height: 650px;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    opacity: 0.8;
+    
+}
+p{
+max-width: 500px;
+text-align: justify;
+font-size: 18px;
+}
+h1{
+ font-family: cursive;
+ color: red;
+}
+h2{
+font-family: sans-serif;
+color:red;
+}
+#bio {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+p {
+    max-width: 450px;
+    margin:25px auto;
+    font-size: 17px;
+    
+}
+.menu {
+ list-style: none;
+ top: 0;
+ right: 20px;
+ position: fixed;
+  z-index: 99;
+ }
+.links {
+  float: left;
+  padding: 10px;
+  
+}
+.links:hover {
+  background-color: black;
+  color: white;
+  text-decoration: underline;
+  cursor:pointer;
+}
+a{
+ color:orangered;
+text-decoration:underline;
+font-family: monospace;
+text-shadow: 1px 1px darkcyan;
+
+}
+html{
+scroll-behavior: smooth;
+    
+}
+h4{
+display:inline;
+text-decoration:none;
+}
+.contact1 a{
+text-decoration:none;
+
+}
+contacts iframe{
+    width:100px;
+
+}
